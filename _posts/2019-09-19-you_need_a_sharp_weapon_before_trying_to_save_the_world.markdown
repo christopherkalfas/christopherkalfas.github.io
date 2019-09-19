@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "You Need a Sharp Weapon Before Trying to Save the World"
-date:       2019-09-19 21:35:25 +0000
+date:       2019-09-19 17:35:26 -0400
 permalink:  you_need_a_sharp_weapon_before_trying_to_save_the_world
 ---
 
