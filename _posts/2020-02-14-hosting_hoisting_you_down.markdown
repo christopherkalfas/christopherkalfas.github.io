@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Hosting Hoisting you Down?"
-date:       2020-02-14 16:51:53 +0000
+date:       2020-02-14 11:51:54 -0500
 permalink:  hosting_hoisting_you_down
 ---
 
@@ -10,7 +10,7 @@ So, you've done it. You have built a world-changing React application, and you c
 
 ![](https://media.giphy.com/media/cwTtbmUwzPqx2/giphy.gif)
 
-There are a ton of different hosting websites programmers can use to share their projects from the world. Github Pages, Now, Netlify are some popular options for React Developers. For this blog, I wanted to work through using Github Pages, since most programmers already have a GitHub accounts.
+There are a ton of different hosting websites programmers can use to share their projects. Github Pages, Now, Netlify are some popular options for React Developers. For this blog, I wanted to work through using Github Pages, since most programmers already have a GitHub accounts.
 
 First things first, GitHub Pages as a few different options for hosting various web apps. You can have one site per GitHub User account or organization, BUT you have access to unlimited project sites. ***This walkthrough focuses on project pages.*** Additionally, GitHub Pages is free and a great option if you want to feature portfolio projects to potential employers. 
 
