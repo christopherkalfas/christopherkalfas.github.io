@@ -63,3 +63,5 @@ You did it! Now the world can see your programming skills. A final thought, lots
 I hope you found this walkthrough useful. And I can't wait to see how your app changes the world!
 
 ![](https://media.giphy.com/media/2episNCOtIW7S/giphy.gif)
+
+[Part II: Now vs. Netlify](https://christopherkalfas.github.io/hosting_part_ii_now_vs_netlify)
