@@ -1,10 +1,11 @@
 ---
 layout: post
 title:      "Hosting Part II: Now Vs. Netlify"
-date:       2020-02-21 20:52:17 +0000
+date:       2020-02-21 15:52:18 -0500
 permalink:  hosting_part_ii_now_vs_netlify
 ---
 
+[Part I: GitHub Pages](https://christopherkalfas.github.io/hosting_hoisting_you_down)
 
 Okay, so you've successfully hosted a React application using GitHub Pages. The world can see witness your brilliance, and you start to wonder, 'Is this it? Have I reached the mountain top?'
 
