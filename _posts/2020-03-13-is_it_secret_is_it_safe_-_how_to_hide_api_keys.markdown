@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Is it Secret, Is it Safe? - (How to Hide API Keys)"
-date:       2020-03-13 14:02:14 +0000
+date:       2020-03-13 10:02:15 -0400
 permalink:  is_it_secret_is_it_safe_-_how_to_hide_api_keys
 ---
 
