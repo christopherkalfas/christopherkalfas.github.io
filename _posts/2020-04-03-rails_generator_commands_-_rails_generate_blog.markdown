@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails Generator Commands - rails generate blog"
-date:       2020-04-03 20:16:43 +0000
+date:       2020-04-03 16:16:44 -0400
 permalink:  rails_generator_commands_-_rails_generate_blog
 ---
 
@@ -30,7 +30,7 @@ Also, you can use an *alias* for the generator, substituting the word 'generator
 `rails g --help`
 
 ### CONTEXT
-When I learned how to use Rails, I followed a useful convention called "MVC." **Model-View-Controller**. Rails generator commands also utilize this contention, and as a developer, we can decide how much of our web app we want Rails to build more use. I'll start with the least amount of work for Rails and finish with Rails, basically making the whole app.
+When I learned how to use Rails, I followed a useful convention called "MVC." **Model-View-Controller**. Rails generator commands also utilize this convention, and as a developer, we can decide how much of our web app we want Rails to build more use. I'll start with the least amount of work for Rails and finish with Rails, basically making the whole app.
 
 #### *MODEL*
 We can build our models and include their attributes and associations using the model generator commands. The controller and views folders are completely omitted. 
