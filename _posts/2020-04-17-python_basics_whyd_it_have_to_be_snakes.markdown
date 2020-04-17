@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Python Basics: Why'd it have to be snakes?"
-date:       2020-04-17 18:38:07 +0000
+date:       2020-04-17 14:38:08 -0400
 permalink:  python_basics_whyd_it_have_to_be_snakes
 ---
 
@@ -58,7 +58,7 @@ That's crazy! All those companies/entities offer completely different services t
 #### **Variables** 
 * Declaring and defining variables in *Python are very similar to Ruby*. 
 * Variable names can use letters and numbers but should begin with a lowercase letter or an underscore. 
-* There is not an explicit need to defined with a `var` or `let` like in JavaScript.
+* There is no need to define a variable with a `var` or `let` like in JavaScript.
 	
 	 *Example:*
      * Ruby:  `greeting = "Hello, World!"`
