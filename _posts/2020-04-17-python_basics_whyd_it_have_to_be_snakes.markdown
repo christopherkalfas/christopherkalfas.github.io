@@ -71,7 +71,7 @@ That's crazy! All those companies/entities offer completely different services t
 * *Example:*  `print(greeting)`
 
 #### **String Interpolation** 
-* Python allows a few different ways to customize strings. When using the print method, a coma can be used to separate the reusable part of the string from the part we want to be interpolated.
+* Python allows a few different ways to customize strings. When using the print method, a comma can be used to separate the reusable part of the string from the part we want to be interpolated.
 * *Example:*
 ```
 name = "Bob"
