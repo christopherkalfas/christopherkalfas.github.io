@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Python Basic Part II: Snake Logic"
-date:       2020-04-24 17:04:32 +0000
+date:       2020-04-24 13:04:33 -0400
 permalink:  python_basic_part_ii_snake_logic
 ---
 
@@ -12,7 +12,7 @@ Hello, to my loyal followers. As promised, here is the follow up to last week's 
 
 #### ARITHMETIC
 Python's round method takes the decimal and rounds down or up to the nearest whole number.
-* Example: ` round(2.4) ` returns `2`
+* Example: `round(2.4)` returns `2`
 * Example:  `round(2.6)` returns `3`
 
 Python follows standard Order of Operation - PEMDAS. For those who don't remember what means:
