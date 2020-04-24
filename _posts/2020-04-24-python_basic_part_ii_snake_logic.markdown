@@ -10,7 +10,7 @@ Hello, to my loyal followers. As promised, here is the follow up to last week's 
 
 ![](https://media.giphy.com/media/3s976LBmflJ17QqV7M/giphy.gif)
 
-#### ARITHMETIC
+### ARITHMETIC
 Python's round method takes the decimal and rounds down or up to the nearest whole number.
 * Example: `round(2.4)` returns `2`
 * Example:  `round(2.6)` returns `3`
@@ -30,7 +30,7 @@ Python follows standard Order of Operation - PEMDAS. For those who don't remembe
 
 * Example: `str(42)` returns `"The Meaning of Life"`; actually, it doesn't, but that would be cool. this method actually returns `"42"`.
 
-#### BASIC METHODS
+### BASIC METHODS
 **Length** - Python's length method can be used on strings to count the number of characters
 * Example: `len("Chris")` returns `5`
 
@@ -57,7 +57,7 @@ HOW FREAKING COOL?!
 **List of all methods** - Python's help methods return a list of available methods for the data type you pass to it.
 * Example: `help(str)` 
 
-#### COMPARISONS
+### COMPARISONS
 
 Python's comparison logic is similar to Ruby's and JS's.
 * A single equals sign "=," assigns a value to a variable
@@ -84,7 +84,7 @@ Example: `"banana" > "apple"` returns `True`
 
 ![](https://media.giphy.com/media/icJA0VF7ntoEL18Jez/giphy.gif)
 
-#### BOOLEANS
+### BOOLEANS
 
 Python's conditional logic is the same as in JavaScript and Ruby. The syntax for chaining logical is a little different. 
 * Ruby Example: `true && true` returns `true`
@@ -97,7 +97,7 @@ Python's conditional logic is the same as in JavaScript and Ruby. The syntax for
 
 Python's syntax reads more like English than Ruby's! 
 
-#### CONDITIONALS
+### CONDITIONALS
 
 **If, Else, and Elif** - One of the most significant differences between Ruby and Python is that when we write a conditional statement in Python, the **indentation MATTERS**. 
 
