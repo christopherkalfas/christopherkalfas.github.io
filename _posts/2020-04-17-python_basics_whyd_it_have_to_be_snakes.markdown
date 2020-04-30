@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Python Basics: Why'd it have to be snakes?"
+title:      "Python Basics: Part I - Why'd it have to be snakes?"
 date:       2020-04-17 14:38:08 -0400
 permalink:  python_basics_whyd_it_have_to_be_snakes
 ---
@@ -125,6 +125,10 @@ As a former actor and comedy writer, I love Monty Python as much as I hate snake
 ![](https://media.giphy.com/media/3s0QuxoSX6DgdnGFoE/giphy.gif)
 
 Gotta love developers!
+
+Here are the links to Part II & III
+* [Part II](https://christopherkalfas.github.io/python_basic_part_ii_snake_logic)
+* [Part III](https://christopherkalfas.github.io/python_basics_part_iii_functions_and_loops)
 
 
 
