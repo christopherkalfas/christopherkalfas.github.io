@@ -8,6 +8,9 @@ permalink:  python_basic_part_ii_snake_logic
 
 Hello, to my loyal followers. As promised, here is the follow up to last week's blog on Python Basics. In this entry, I'm going to cover arithmetic, string methods, comparisons, booleans, and conditionals. 
 
+In case you must Part I, here is the link.
+Python Basics: [Part I ](https://christopherkalfas.github.io/python_basics_whyd_it_have_to_be_snakes)
+
 ![](https://media.giphy.com/media/3s976LBmflJ17QqV7M/giphy.gif)
 
 ### ARITHMETIC
@@ -120,3 +123,5 @@ else:
 ![](https://media.giphy.com/media/tZ6zAdNZbWOhq/giphy.gif)
 
 And there you have it! I hope that these blogs are helping turn on some lights and showing you how easy it is to pick up a new language once you have others under your belt. Take another break and get comfortable with these concepts. I think it becomes exponentially more comfortable to learn new things once you have something to compare it to. Next week I'm going to wrap up my Python basics series by covering functions and loops.
+
+Python Basics: [Part III](https://christopherkalfas.github.io/python_basics_part_iii_functions_and_loops)
