@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Harry Potter and the Room of Cookie Requirements"
-date:       2020-05-30 18:02:30 +0000
+date:       2020-05-30 14:02:31 -0400
 permalink:  harry_potter_and_the_room_of_cookie_requirements
 ---
 
@@ -29,8 +29,8 @@ Think of it like this: In "Harry Potter and the Deathly Hallows", The Order of t
 
 So to protect themselves from infiltration, two members of the Order, Kingsley Shacklebolt and Remus Lupin, come up with an idea that equates to a *Wizard-cookies-requirued-authentication*.
 
-Whenever two members of the Order meet, they hold the other at wand-point and ask the other member a question that only that real wizard know and stump an imposter.
-For example, after the Death Eaters foil the Order's plan to sneak Harry out of #4 Privet Drive, Lupin and Kingsley are two of the first to make it back to Burrow. Upon seeing each other Kingsley point his wand at Lupin and asks him:
+Whenever two members of the Order meet, they hold the other at wand-point and ask the other member a question that only the real wizard know and stump an imposter.
+For example, after the Death Eaters foil the Order's plan to sneak Harry out of #4 Privet Drive, Lupin and Kingsley are two of the first to make it back to the Burrow. Upon seeing each other Kingsley point his wand at Lupin and asks him:
 
 ![](https://media.giphy.com/media/13CK4GhUKP9x3q/giphy.gif)
 
@@ -57,7 +57,7 @@ The id number is assigned when a User adds an item to an empty cart.
 
 ```Cookie: cart_id=42```
 
-Later on, when a User comes back to the web app that id number is a part of their GET request the server.
+Later on, when a User comes back to the web app, that id number is a part of their GET request the server.
 
 One last thing is to talk about before we leave this analogy. Cookies are stored as plain text that shows up in a user's browser when they make a GET request. That means the id is visible to the User. Now let's say you are on a community wifi network in a coffee shop. Since your cookies are stored locally and appear in the browser, a coding ne'er-do-well can potentially also see your cookie id. Ruby on Rails gives users and servers a solution that's way better than some protection charm to address this vulnerability. 
 
