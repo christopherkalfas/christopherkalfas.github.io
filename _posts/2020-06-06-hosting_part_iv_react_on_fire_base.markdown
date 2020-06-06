@@ -1,14 +1,16 @@
 ---
 layout: post
 title:      "Hosting Part IV: React on Fire(base)"
-date:       2020-06-06 17:29:46 +0000
+date:       2020-06-06 13:29:47 -0400
 permalink:  hosting_part_iv_react_on_fire_base
 ---
 
 
-![](https://media.giphy.com/media/g79am6uuZJKSc/giphy.gif)
 
 Hi gang! I built out a portfolio website last week and wanted to host it using a new hosting service. In past blog entries, I've talked about, GitHub Pages, Now, Netlify, and Heroku. So this time, I wanted to step it a notch and use Google Firebase! 
+
+![](https://media.giphy.com/media/g79am6uuZJKSc/giphy.gif)
+
 
 Before we get started, here a few things to note:
 * The portfolio website is built with React ONLY
@@ -17,14 +19,13 @@ Before we get started, here a few things to note:
 Alright, let's do this!
 
 
-
-#### Step I
+### Step I
 
 Head over to the [firebase](https://firebase.google.com/) website and sign-up/log in using your Gmail account. Once you've signed up, click on the 'console' button at the top right-hand corner of the navigation bar. Click on the 'Add project' card and give your project a name. Once you created the project head over to the terminal.
 
 ![Imgur](https://i.imgur.com/b2Dp6AH.png?1)
 
-#### Step II
+### Step II
 
 Now we need to install two packages. The first is the `firebase-tools` package, which needs to be globally installed. In the terminal run,
 
@@ -38,7 +39,7 @@ Excellent job, team! We have everything we need at this point. Now we need to ge
 
 `yarn run build`
 
-#### Step III
+### Step III
 
 Now that our application has the packages and build folder ready to go, we need to connect to our Firebase project we created when we signed up. In the terminal run,
 
@@ -54,7 +55,7 @@ Next, we need to initialize Firebase to our React app, by running,
 
 ![](https://media.giphy.com/media/5Ys2bm1nW4kqRpRynQ/giphy.gif)
 
-#### Step IV
+### Step IV
 Firebase will start to prompt us with questions about configuration options. The first one is:
 
 * `Which Firebase CLI features do you want to set up for this folder?` --> Use the *spacebar* to toggle down to ***Hosting: Configure and deploy Firebase Hosting sites.***
@@ -74,7 +75,7 @@ The next few questions ask us how we want to configure the web app.
    * **No** 
    * With SPAs, we want the user redirected to the `index.html` file. Then, our `index.html` file can pass the bucket to React Router.
 
-#### Step V
+### Step V
 Firebase will create two new files in your project directory, `firebase.json` and `.firebaserc`.
 
 Let's check and make sure we have done everything right up to this point. Open `firebase.json`; the file should be a mirror image of the one from my project;
@@ -111,7 +112,7 @@ Then over in `.firebaserc` we should see an object with a key-value pair of `pro
 If everything looks correct, go ahead and commit to Github, to make sure we are tracking the new packages, build folder, and the two auto-generated Firebase files.
 
 
-#### Step VI
+### Step VI
 
 The last step is the simplest. All we need to do to deploy the application is run the command,
 
