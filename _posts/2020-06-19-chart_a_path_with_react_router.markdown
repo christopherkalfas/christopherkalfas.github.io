@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Chart a Path with React Router"
-date:       2020-06-19 17:52:39 +0000
+date:       2020-06-19 13:52:40 -0400
 permalink:  chart_a_path_with_react_router
 ---
 
