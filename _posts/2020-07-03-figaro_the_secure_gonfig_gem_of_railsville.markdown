@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Figaro, the Secure Gonfig Gem of Railsville"
-date:       2020-07-03 21:58:07 +0000
+title:      "Figaro, the Secure Config Gem of Railsville"
+date:       2020-07-03 17:58:07 -0400
 permalink:  figaro_the_secure_gonfig_gem_of_railsville
 ---
 
