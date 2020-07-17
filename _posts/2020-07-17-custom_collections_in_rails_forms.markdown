@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Custom Collections in Rails' Forms"
-date:       2020-07-17 16:50:40 +0000
+date:       2020-07-17 12:50:41 -0400
 permalink:  custom_collections_in_rails_forms
 ---
 
