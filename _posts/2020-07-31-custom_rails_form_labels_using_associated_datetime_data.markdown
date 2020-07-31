@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Custom Rails Form Labels Using Associated Datetime Data"
-date:       2020-07-31 21:09:22 +0000
+date:       2020-07-31 17:09:23 -0400
 permalink:  custom_rails_form_labels_using_associated_datetime_data
 ---
 
@@ -11,7 +11,7 @@ Hi, everybody!
 
 A few weeks ago, I wrote a [blog](https://christopherkalfas.github.io/custom_collections_in_rails_forms) about customizing `collection_select` in a Rails form. This week I'm going to write about more ways of customizing Rails forms. 
 
-This time, we will cover how to **render custom labels for a child-model's form based on its parent's attribute values**. There is lots of documentation about nested forms and attributes examples; where a developer needs the child model information to render inside the parent's form. So, I figured it would cool and helpful to show how to do it the opposite way. 
+This time, we will cover how to **render custom labels for a child-model's form based on its parent's attribute values**. There is lots of documentation about nested forms and attributes. Most examples show  the child model information to render inside the parent's form. So, I figured it would be cool and helpful to show how to do it the opposite way. 
 
 ![](https://media.giphy.com/media/idw3dW74u7VT9EfO4e/giphy.gif)
 
