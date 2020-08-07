@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "CanCanCan Example Not in the Docs"
-date:       2020-08-07 15:46:09 +0000
+date:       2020-08-07 11:46:10 -0400
 permalink:  cancancan_example_not_in_the_docs
 ---
 
